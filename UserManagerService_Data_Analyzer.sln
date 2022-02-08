@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagerService_Data_Analyzer", "UserManagerService_Data_Analyzer\UserManagerService_Data_Analyzer.csproj", "{A8ED298C-F4C0-4FD7-AB48-51060B6D8A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8ED298C-F4C0-4FD7-AB48-51060B6D8A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8ED298C-F4C0-4FD7-AB48-51060B6D8A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8ED298C-F4C0-4FD7-AB48-51060B6D8A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8ED298C-F4C0-4FD7-AB48-51060B6D8A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1224B5-ED71-4313-8E30-0D4E6B370ED7}
+	EndGlobalSection
+EndGlobal
